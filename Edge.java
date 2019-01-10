@@ -1,9 +1,9 @@
 /**
- * Class Vertex used as Temporary Class that Contain Values of
+ * Class Edge used as Temporary Class that Contain Values of
  * each Cell's Criteria such as if that Cell have Wall or Not
 **/
 
-public class Vertex {
+public class Edge {
 
 	private int x1, y1;
 	private int x2, y2;
